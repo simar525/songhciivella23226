@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "https://userinterfaces.webflow.io/$1"
+ }
+  ]
+}
